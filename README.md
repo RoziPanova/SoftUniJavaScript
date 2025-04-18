@@ -7,8 +7,8 @@
 ## 💫 COURSE CURRICULUM:
 
 - 👜 JS Syntax Fundamentals, JS Arrays & Strings, Functions and Statements
-- 🧋 Object and Classes, DOM Introduction, DOM Manipulation and Events
-- 💍 HTTP and REST, Asynchronous Programming 
+- 📚 Object and Classes, DOM Introduction, DOM Manipulation and Events
+- 🖍 HTTP and REST, Asynchronous Programming 
 
 ---
 
