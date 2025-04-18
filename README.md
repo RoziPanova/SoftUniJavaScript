@@ -1,6 +1,6 @@
 # 🌸 SoftUni JavaScript
 
-> 💕 *A SoftUni JS Front-End course I graduated in 2024.*
+> 💕 *A SoftUni JS Front-End course I took in 2024.*
 
 ---
 
